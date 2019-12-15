@@ -30,3 +30,4 @@ I've had the wonderful opportunity to travel to many amazing places.
 * New York - New York City (2017 - 2019)
 * Pennsylvania - Philadelphia (2018-2019)
 * Rhode Island - Providence (2017-2019)
+* Virginia - Charlottesville (2018)
