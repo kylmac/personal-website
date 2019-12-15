@@ -12,3 +12,7 @@ This is a post I update periodically with some of my favorite NBA moments in no 
 
 2. Kawhi Leonard steals the ball from Ben McLemore on two consecutive possessions. 
 [![](http://img.youtube.com/vi/Q2uYTSiXJEQ/0.jpg)](http://www.youtube.com/watch?v=Q2uYTSiXJEQ "Kawhi steals from McLemore")
+
+3. Tim Duncan is [ejected](https://www.youtube.com/watch?v=a2SYIrUnf5Y) for laughing on the bench.
+
+4. Damian Lillard hitting game/series winners. Most notably against the [Rockets](https://www.youtube.com/watch?v=mejFtEY5faU) in 2014 and the [Thunder](https://www.youtube.com/watch?v=a-M3x-eZpV8) in 2019. 
