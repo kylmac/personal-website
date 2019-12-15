@@ -20,15 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: kyleem at princeton dot edu
 
-interests:
-- Network Security and Privacy
-- Internet Censorship
 
-education:
-  courses:
-  - course: BSE in Electrical Engineering
-    institution: Princeton University
-    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,7 +49,7 @@ user_groups:
 - Visitors
 ---
 
-I am a senior undergraduate in the Electrical Engineering department at Princeton University. My senior thesis is an evaluation of [Snowflake](https://snowflake.torproject.org/) as an indistinguishable censorship circumvention tool. I am advised by Professor Prateek Mittal. 
+I am a senior undergraduate in the Electrical Engineering department at Princeton University. I am broadly interested in network security, privacy, and internet censorship. My senior thesis is an evaluation of [Snowflake](https://snowflake.torproject.org/) as an indistinguishable censorship circumvention tool. I am advised by Professor Prateek Mittal. 
 
 Outside of research, I am a member of Princeton Men's Varsity Water Polo and on the executive board of the Princeton Poker Club. 
 
