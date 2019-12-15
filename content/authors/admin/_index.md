@@ -59,4 +59,6 @@ user_groups:
 
 I am an undergraduate in the Electrical Engineering department at Princeton University. My senior thesis is an evaluation of [Snowflake](https://snowflake.torproject.org/) as an indistinguishable censorship circumvention tool. I am advised by Professor Prateek Mittal. 
 
-Outside of research, I am a member of Princeton Men's Varsity Water Polo and on the executive board of the Princeton Poker Club. CV available upon request. Email: kyleem at princeton dot edu. 
+Outside of research, I am a member of Princeton Men's Varsity Water Polo and on the executive board of the Princeton Poker Club. 
+
+CV available upon request. Email: kyleem at princeton dot edu. 

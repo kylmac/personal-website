@@ -7,4 +7,5 @@ draft: false
 I've had the wonderful opportunity to travel to many amazing places. 
 
 * Austria - Vienna (2016)
-* France
+* Czech Republic - Prague (2016)
+* France - Paris (2016), Marseille (2016), Avignon (2016), Toulouse (2012)
