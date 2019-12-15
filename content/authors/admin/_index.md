@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: kyleem at princeton dot edu
 
 interests:
 - Network Security and Privacy
@@ -35,9 +35,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/kylmacm
@@ -60,4 +57,6 @@ user_groups:
 - Visitors
 ---
 
+I am an undergraduate in the Electrical Engineering department at Princeton University. My senior thesis is an evaluation of [Snowflake](https://snowflake.torproject.org/) as an indistinguishable censorship circumvention tool. I am advised by Professor Prateek Mittal. 
 
+Outside of research, I am a member of Princeton Men's Varsity Water Polo and on the executive board of the Princeton Poker Club. CV available upon request. Email: kyleem at princeton dot edu. 
