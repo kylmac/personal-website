@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Vehicle Speed Control"
 date: 2019-12-15T20:55:55-05:00
-draft: true
+draft: false
 ---
 
 The goal of this project was to design the electrical system for a motor-controlled vehicle that could accomplish three tasks:
