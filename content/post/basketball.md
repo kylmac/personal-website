@@ -16,3 +16,10 @@ This is a post I update periodically with some of my favorite NBA moments in no 
 3. Tim Duncan is [ejected](https://www.youtube.com/watch?v=a2SYIrUnf5Y) for laughing on the bench.
 
 4. Damian Lillard hitting game/series winners. Most notably against the [Rockets](https://www.youtube.com/watch?v=mejFtEY5faU) in 2014 and the [Thunder](https://www.youtube.com/watch?v=a-M3x-eZpV8) in 2019. 
+
+5. Michael Ruffin attempts to run out the clock by [throwing the ball in the air](https://www.youtube.com/watch?v=WqgYNPANWa0). The Wizards would go on to lose this game. 
+
+6. John Wall hits the go ahead three against the Celtics in the 2017 Eastern Semis. 
+[![](http://img.youtube.com/vi/haHK4j7rckk/0.jpg)](http://www.youtube.com/watch?v=haHK4j7rckk "")
+
+7. 
