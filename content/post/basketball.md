@@ -21,5 +21,3 @@ This is a post I update periodically with some of my favorite NBA moments in no 
 
 6. John Wall hits the go ahead three against the Celtics in the 2017 Eastern Semis. 
 [![](http://img.youtube.com/vi/haHK4j7rckk/0.jpg)](http://www.youtube.com/watch?v=haHK4j7rckk "")
-
-7. 
