@@ -19,7 +19,7 @@ Our vehicle is composed of an electrical subsystem and a software/firmware subsy
 
 #### Power Board Modification
 Every additional component implemented in navigation control is powered using the same power board as used in speed control. However, a designated power source is needed to power the servo motor as it would otherwise draw too much current. This power source is shown below.
-![alt text](https://github.com/kylmac/ELE302_Navigation_Control/blob/master/images/PowerBoard.png)
+![alt text](https://github.com/kylmac/ELE302_Navigation_Control/blob/master/images/PowerBoard.png "yes")
 
 #### Video Board
 The primary function of the **video board** is to power the camera and deliver the output of the camera to the PSoC and comparator board respectively. Shown below, the composite video output of the camera is sent to the sync separator and the comparator before finally reaching the PSoC.
